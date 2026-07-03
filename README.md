@@ -4,7 +4,7 @@
 [ ] Track company name\
 [ ] Track application status\
 [ ] Search applications\
-[ ] Save data to a file\
+[ ] Save data to a file
 
 ## Future upgrades:
 [ ] Statistics dashboard\
