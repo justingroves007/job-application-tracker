@@ -1,12 +1,12 @@
 # job-application-tracker
-##Features:
+## Features:
 [ ] Add applications\
 [ ] Track company name\
 [ ] Track application status\
 [ ] Search applications\
 [ ] Save data to a file\
 
-##Future upgrades:
+## Future upgrades:
 [ ] Statistics dashboard\
 [ ] Interview tracking\
 [ ] Email reminders\
