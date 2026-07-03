@@ -1,6 +1,6 @@
 # job-application-tracker
 ## Features:
-- [ ] Add applications
+- [X] Add applications
 - [ ] Track company name
 - [ ] Track application status
 - [ ] Search applications
